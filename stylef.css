@@ -1,0 +1,37 @@
+body {
+  background-color: #f9f9f9;  
+  font-family: verdana, sans-serif;
+     }
+form {
+  max-width: 500px;
+  margin: auto;
+  margin-top: 150px;
+  background-color: #f9f9f9;
+  text-align: center;
+     }
+.gl {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  margin-top: 4%;
+    }
+button {
+  text-align: center;
+  border-radius: 5%;
+  background-color:#009688;
+  margin: 20px;
+  height: 27px;
+  font-size: 11px;
+  width: 71%;
+       }
+input {
+  width: 70%;
+  border: 1px solid black;
+  border-left: white;
+  border-right: white;
+  border-top: white;
+}
+
+.cv {
+     margin-bottom: 5%;
+    }
